@@ -1,0 +1,13 @@
+{
+	"TIL": {
+		"scope" : "markdown",
+		"prefix": ["til","today_i_learn"],
+		"body": [
+			"# $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE\n",
+			"- What I learned: ",
+			"- What was interesting: ",
+			"- What I regret: "
+		],
+		"description": "TIL Markdown Snippet"
+	}
+}
